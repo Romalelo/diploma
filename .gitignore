@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.wav
+*.ogg
+/SAVEE DataSet
 
 # C extensions
 *.so

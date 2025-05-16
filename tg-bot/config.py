@@ -1,0 +1,3 @@
+# config.py
+
+TOKEN = "6227684317:AAG3sYTjU9qBt-Q_SeFjs5_uSFSmNxb1JwI"
